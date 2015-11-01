@@ -1,3 +1,5 @@
+'use strict';
+
 import './component.css';
 import React from 'react';
 
