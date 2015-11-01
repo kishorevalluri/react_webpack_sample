@@ -1,1 +1,2 @@
-# react_webpack_sample
+This is a sample react and webpack setup...
+
